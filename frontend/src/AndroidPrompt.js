@@ -20,7 +20,7 @@ function AndroidPrompt(props, ref) {
                 <View style={[styles.backdrop, StyleSheet.absoluteFill]} />
 
                 <View style={styles.prompt}>
-                    <Text style={styles.hint}>Przyłuż produkt do telefonu</Text>
+                    <Text style={styles.hint}>Przyłóż produkt do telefonu</Text>
 
                     <TouchableOpacity style={styles.btn} onPress={() => {
                         setVisible(false),

@@ -53,7 +53,7 @@ const styles = StyleSheet.create({ // CSS-like styling
         paddingVertical: 15,
         width: '95%',
         textAlign: 'center',
-        marginBottom: 20,
+        marginBottom: 10,
         // backgroundColor: 'red',
         borderBottomWidth: 2,
         borderBottomColor: 'rgb(62, 162, 255)'
